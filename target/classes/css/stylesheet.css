@@ -1,0 +1,29 @@
+.root {
+    -fx-background: "#455a64"
+}
+
+.button {
+    -fx-background-color: "#263238";
+    -fx-text-fill: "#fafafa";
+    -fx-text-alignment: "center";
+
+}
+
+.toggle-button {
+    -fx-background-color: "#263238";
+    -fx-text-fill: "#fafafa";
+    -fx-text-alignment: "center";
+
+}
+
+#frame {
+    -fx-background-color: "#263238";
+    -fx-background-size: stretch
+}
+
+#area {
+    -fx-fill: "#90caf9bb";
+    -fx-stroke: "#2196f3";
+    -fx-stroke-width: 2;
+    -fx-stroke-type: inside
+}
